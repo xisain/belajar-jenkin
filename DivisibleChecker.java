@@ -19,6 +19,7 @@ public class DivisibleChecker {
             System.out.println("anjay bjir");
             //pusing coy
             // nambah pusing
+            System.out.println(harusnya ini string);
             }
         }
     }
