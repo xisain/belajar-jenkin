@@ -17,6 +17,7 @@ public class DivisibleChecker {
           else {
             System.out.println("The first number is not divisible by the second number ");
             System.out.println("anjay bjir");
+            //pusing coy
             }
         }
     }
